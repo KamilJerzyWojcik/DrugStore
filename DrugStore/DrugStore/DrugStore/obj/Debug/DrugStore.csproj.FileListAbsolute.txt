@@ -1,0 +1,7 @@
+C:\Users\Kamil\Documents\codersLab zajecia\portfolio\DrugStore\DrugStore\DrugStore\obj\Debug\DrugStore.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\codersLab zajecia\portfolio\DrugStore\DrugStore\DrugStore\obj\Debug\DrugStore.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\codersLab zajecia\portfolio\DrugStore\DrugStore\DrugStore\bin\Debug\DrugStore.exe.config
+C:\Users\Kamil\Documents\codersLab zajecia\portfolio\DrugStore\DrugStore\DrugStore\bin\Debug\DrugStore.exe
+C:\Users\Kamil\Documents\codersLab zajecia\portfolio\DrugStore\DrugStore\DrugStore\bin\Debug\DrugStore.pdb
+C:\Users\Kamil\Documents\codersLab zajecia\portfolio\DrugStore\DrugStore\DrugStore\obj\Debug\DrugStore.exe
+C:\Users\Kamil\Documents\codersLab zajecia\portfolio\DrugStore\DrugStore\DrugStore\obj\Debug\DrugStore.pdb
